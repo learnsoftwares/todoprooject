@@ -1,1 +1,1 @@
-serives page
+service page
